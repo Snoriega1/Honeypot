@@ -35,4 +35,4 @@ Here is a screenshot of the first page of my billing report which shows the top 
 This step was by far the hardest and took the longest and unfortunately I was unable to get the sessions.json file exported to my host machine. I did manage to get a screenshot of part of the file but could not get the whole file uploaded. Below is the file being downloaded but I could cot find it in my host machine. 
 <img src="https://i.ibb.co/3WdJcKX/Cant-find-json-file-on-host.png" alt="Cant-find-json-file-on-host" border="0"></a>
 This is the json file viewed using the nano command in the ssh terminal.
-<img src="https://i.ibb.co/xJbSkdd/json-file.png" alt="json-file" border="0"></a>
+<img src="https://i.ibb.co/dt7Mywr/json-file.png" alt="json-file" border="0"></a>
