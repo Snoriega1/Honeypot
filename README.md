@@ -1,9 +1,10 @@
 # Honeypot
 <hr>
 <b><h3>Install Instance in GUI</h3></b>
-This was fairly easy just following the instructions in the assignment. I noticed that the actions could be performed in the GUI or in the command line. The instructions were for the command line but as you see in the screenshot below I used the GUI. The steps still corelated to items in the GUI and you just need to pay close attention to enter the configurations into the correct fields.
+This was fairly easy just following the instructions in the assignment for this step. I noticed that the actions could be performed in the GUI or in the command line. The instructions were for the command line but as you see in the screenshot below I used the GUI. The steps still corelated to items in the GUI and you just need to pay close attention to enter the configurations into the correct fields.<br>
 <img src="https://i.ibb.co/JC2pkhN/Install-Instance-in-GUI-or-GCP-Console.png" alt="Install-Instance-in-GUI-or-GCP-Console" border="0"></a><br>
 <b><h3>Installing Ubuntu Pi</h3></b>
+Again this step was very easy if the instructions were followed correctly.<br>
 <img src="https://i.ibb.co/VvCnbKw/Installing-Ubuntu-Pi.png" alt="Installing-Ubuntu-Pi" border="0"></a><br>
 <b><h3>Firewall Configs</h3></b>
 <img src="https://i.ibb.co/kMBCMQX/Firewall-Configs.png" alt="Firewall-Configs" border="0"></a><br>
